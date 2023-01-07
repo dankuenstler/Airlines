@@ -1,3 +1,4 @@
-#Airline data
+# Airline data
 
-EDA exploration on airline dataset.
+Some EDA exploration on airline dataset.
+
